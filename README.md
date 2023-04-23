@@ -1,0 +1,1 @@
+# Gaming-Shop-Vanilla-JS-Project
